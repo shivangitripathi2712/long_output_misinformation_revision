@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+env/
+rr/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Output/result files
+output*
+my_output.json
+output_partial.xlsx
+*.xlsx
+*.csv
+
+# Large datasets / generated data
+NQdataset.json
+statement.jsonl
+textstatemnts.txt
+*.jsonl
